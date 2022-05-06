@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PROYECTO {
 
     public static void main(String[] args) {
-        System.out.println("carlos estuvo aqui");
+
         // Se ingresa total de presupuesto
         Scanner scan = new Scanner(System.in);
         System.out.print("Ingresa Monto Total: ");
