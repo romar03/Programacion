@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class PROYECTO {
 
     public static void main(String[] args) {
-
+        //linea de prueba
         // Se ingresa total de presupuesto
         Scanner scan = new Scanner(System.in);
         System.out.print("Ingresa Monto Total: ");
