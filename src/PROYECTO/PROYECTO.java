@@ -17,7 +17,7 @@ public class PROYECTO {
         // Si el monto es valido se realiza la cotizacion por los routers, switches y APs.
         if(ValidarMonto(cantidad) == "Monto validado"){
 
-
+            // este es un comentario adicional
             // Se solicita cantidad de routers
             System.out.print("Ingresa Cantidad de Routers: ");
             int TotalRouters = scan.nextInt();
